@@ -2,4 +2,4 @@ Added Some Text
 Added some more of it..
 
 
-Shona Added changes to this to implement feature1
+Add Feature1 (took shona's changes into consideration)
